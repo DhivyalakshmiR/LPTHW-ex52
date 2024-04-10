@@ -1,3 +1,10 @@
+# The provided code defines a text-based adventure game with multiple rooms and paths
+# between them. Each room has a description, and players can navigate through the game by
+# choosing actions in each room. The game engine is implemented using Flask, a Python web
+# framework. It uses sessions to keep track of the player's progress and renders HTML
+# templates to display the game interface. Players can interact with the game by selecting
+# actions from a list of options presented in the web interface.
+
 from random import randint
 # from textwrap import dedent
 
